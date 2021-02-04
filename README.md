@@ -19,4 +19,5 @@ This is the pin configuration for RFID-RC522 Module:
   | SCK	| Pin 23 |
   | SDA	| Pin 24 |
 
- > Give me an RFID tag and I'll control the world —Gengis Kan
+ > "Give me an RFID tag and I'll control the world"
+ > — Gengis Kan
